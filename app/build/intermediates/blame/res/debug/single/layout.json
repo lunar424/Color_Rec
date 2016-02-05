@@ -20,6 +20,10 @@
         "source": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_icon.xml"
     },
     {
+        "merged": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/res/merged/debug/layout/purple.xml",
+        "source": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/src/main/res/layout/purple.xml"
+    },
+    {
         "merged": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_search_view.xml"
     },
@@ -42,6 +46,10 @@
     {
         "merged": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/res/merged/debug/layout/yellow.xml",
+        "source": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/src/main/res/layout/yellow.xml"
     },
     {
         "merged": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
@@ -82,6 +90,10 @@
     {
         "merged": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/res/merged/debug/layout/orange.xml",
+        "source": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/src/main/res/layout/orange.xml"
     },
     {
         "merged": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
@@ -204,7 +216,15 @@
         "source": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
+        "merged": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/res/merged/debug/layout/teal.xml",
+        "source": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/src/main/res/layout/teal.xml"
+    },
+    {
         "merged": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/build/intermediates/res/merged/debug/layout/green.xml",
+        "source": "/Users/lunar/AndroidStudioProjects/Color_Rec/app/src/main/res/layout/green.xml"
     }
 ]

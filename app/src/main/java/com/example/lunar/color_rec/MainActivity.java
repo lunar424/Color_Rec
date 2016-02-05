@@ -61,14 +61,58 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.red);
     }
 
-   /** Called when the user clicks the color button */
-   public void startBlue(View view) {
-       // Do something in response to button
-       Intent intent = new Intent(this, Display.class);
-       //startActivity(intent);
-       setContentView(R.layout.blue);
-   }
+    public void startOrange(View view) {
+        // Do something in response to button
+        Intent intent = new Intent(this, Display.class);
+        //startActivity(intent);
+        setContentView(R.layout.orange);
+    }
 
+    /** Called when the user clicks the color button */
+    public void startBlue(View view) {
+        // Do something in response to button
+        Intent intent = new Intent(this, Display.class);
+        //startActivity(intent);
+        setContentView(R.layout.blue);
+    }
 
+    public void startYellow(View view) {
+        // Do something in response to button
+        Intent intent = new Intent(this, Display.class);
+        //startActivity(intent);
+        setContentView(R.layout.yellow);
+    }
 
+    public void startTeal(View view) {
+        // Do something in response to button
+        Intent intent = new Intent(this, Display.class);
+        //startActivity(intent);
+        setContentView(R.layout.teal);
+    }
+
+    public void startPurple(View view) {
+        // Do something in response to button
+        Intent intent = new Intent(this, Display.class);
+        //startActivity(intent);
+        setContentView(R.layout.purple);
+    }
+
+    public void startGreen(View view) {
+        // Do something in response to button
+        Intent intent = new Intent(this, Display.class);
+        //startActivity(intent);
+        setContentView(R.layout.green);
+    }
+
+    /*
+    public void onBackPressed() {
+        if (mWebView.canGoBack()) {
+            mWebView.goBack();
+            return;
+        }
+
+        // Otherwise defer to system default behavior.
+        super.onBackPressed();
+    }
+    */
 }
